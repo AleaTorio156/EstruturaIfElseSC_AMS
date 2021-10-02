@@ -1,0 +1,16 @@
+C:\projetos\ams\1ano\EstruturaSwitchCase\IfElse\IFELSE\bin\Debug\net5.0\IFELSE.exe
+C:\projetos\ams\1ano\EstruturaSwitchCase\IfElse\IFELSE\bin\Debug\net5.0\IFELSE.deps.json
+C:\projetos\ams\1ano\EstruturaSwitchCase\IfElse\IFELSE\bin\Debug\net5.0\IFELSE.runtimeconfig.json
+C:\projetos\ams\1ano\EstruturaSwitchCase\IfElse\IFELSE\bin\Debug\net5.0\IFELSE.runtimeconfig.dev.json
+C:\projetos\ams\1ano\EstruturaSwitchCase\IfElse\IFELSE\bin\Debug\net5.0\IFELSE.dll
+C:\projetos\ams\1ano\EstruturaSwitchCase\IfElse\IFELSE\bin\Debug\net5.0\ref\IFELSE.dll
+C:\projetos\ams\1ano\EstruturaSwitchCase\IfElse\IFELSE\bin\Debug\net5.0\IFELSE.pdb
+C:\projetos\ams\1ano\EstruturaSwitchCase\IfElse\IFELSE\obj\Debug\net5.0\IFELSE.csprojAssemblyReference.cache
+C:\projetos\ams\1ano\EstruturaSwitchCase\IfElse\IFELSE\obj\Debug\net5.0\IFELSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ams\1ano\EstruturaSwitchCase\IfElse\IFELSE\obj\Debug\net5.0\IFELSE.AssemblyInfoInputs.cache
+C:\projetos\ams\1ano\EstruturaSwitchCase\IfElse\IFELSE\obj\Debug\net5.0\IFELSE.AssemblyInfo.cs
+C:\projetos\ams\1ano\EstruturaSwitchCase\IfElse\IFELSE\obj\Debug\net5.0\IFELSE.csproj.CoreCompileInputs.cache
+C:\projetos\ams\1ano\EstruturaSwitchCase\IfElse\IFELSE\obj\Debug\net5.0\IFELSE.dll
+C:\projetos\ams\1ano\EstruturaSwitchCase\IfElse\IFELSE\obj\Debug\net5.0\ref\IFELSE.dll
+C:\projetos\ams\1ano\EstruturaSwitchCase\IfElse\IFELSE\obj\Debug\net5.0\IFELSE.pdb
+C:\projetos\ams\1ano\EstruturaSwitchCase\IfElse\IFELSE\obj\Debug\net5.0\IFELSE.genruntimeconfig.cache
