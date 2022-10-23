@@ -12,6 +12,7 @@ namespace IFELSE
             Console.WriteLine("--------------------------------------");
             Console.WriteLine("");
             Console.WriteLine("Para começar, observe a tabela e digite o mês desejado.");
+            Console.WriteLine("Bora fih do Bill!")
             Console.WriteLine("");
             Console.WriteLine("_______________");
             Console.WriteLine("|  Janeiro    |");
